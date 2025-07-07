@@ -9,7 +9,7 @@ Bot Discord simple dengan fitur ekonomi, game, dan lain-lain yang berbasis Slash
 - **/roulette (jumlah)** — Main roulette melawan bot, taruhan minimal 10 koin, maksimal 10x per hari, delay 6 detik per main.
 - **/help** — Daftar semua command bot.
 - **/about** — Info pemilik bot dan link source code.
-
+- (request feature, dm me on discord thx)
 ## Cara Install & Menjalankan
 
 1. **Clone repository**
