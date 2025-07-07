@@ -38,6 +38,7 @@ Bot Discord simple dengan fitur ekonomi, game, dan lain-lain yang berbasis Slash
 
 5. **Invite bot ke server Discord**
    - Gunakan link invite dengan permission bot dan scope `applications.commands`.
+   - Untuk membuat link invite discord, lebih mudahnya silahkan ke https://discordapi.com/permissions.html
 
 ## Struktur Folder
 - `index.js` — File utama bot
@@ -50,5 +51,7 @@ Bot Discord simple dengan fitur ekonomi, game, dan lain-lain yang berbasis Slash
 - Jika ingin merubah atau menambahkan command, silahkan diubah/ditambah di folder `commands/`.
 - Beri credit ke repositori ini atau berikan saya Favorite.
 ---
+
+> if you get an error message, please contact me via discord, @hudmeh
 
 > Made in love by huda ❤️.
