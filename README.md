@@ -49,7 +49,7 @@ Bot Discord simple dengan fitur ekonomi, game, dan lain-lain yang berbasis Slash
 ## Catatan Penting
 - Jangan upload file `.env`, `playerdata.json`, dan `node_modules/` ke GitHub (sudah diatur di `.gitignore`).
 - Jika ingin merubah atau menambahkan command, silahkan diubah/ditambah di folder `commands/`.
-- Beri credit ke repositori ini atau berikan saya Favorite.
+- Beri credit ke repositori ini atau setidaknya berikan saya Star ✌.
 ---
 
 > if you get an error message, please contact me via discord, @hudmeh
