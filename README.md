@@ -24,7 +24,7 @@ Bot Discord simple dengan fitur ekonomi, game, dan lain-lain yang berbasis Slash
    ```
 
 3. **Buat file `.env`**
-   - Salin dari `.env.example` lalu isi dengan token dan client ID Discord bot kamu:
+   - Buat file baru bernama `.env` lalu isi dengan token dan client ID Discord bot kamu:
      ```env
      TOKEN=ISI_TOKEN_DISINI
      CLIENT_ID=ISI_CLIENT_ID_DISINI
