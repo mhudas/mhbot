@@ -7,10 +7,10 @@ module.exports = {
     async execute(interaction) {
         const embed = new EmbedBuilder()
             .setTitle('Tentang Bot Ini')
-            .setDescription('Bot Discord multifungsi dengan fitur ekonomi dan lainnya.')
+            .setDescription('simple discord bot dibantu AI krn mager!! :)')
             .addFields(
-                { name: 'Pemilik', value: 'Belum diisi', inline: true },
-                { name: 'Source Code', value: '[Link belum diisi](https://github.com/)', inline: true }
+                { name: 'Pemilik', value: '<@868697661308547102>', inline: true },
+                { name: 'Source Code', value: 'https://github.com/mhudas/mhbot', inline: true }
             )
             .setColor(0x00BFFF)
             .setFooter({ text: 'MHBOT' });
