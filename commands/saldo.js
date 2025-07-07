@@ -9,7 +9,7 @@ function getBalance(userId) {
     if (fs.existsSync(dataPath)) {
         data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
     }
-    // Perbaikan: ambil saldo dari objek user
+
     return data[userId] && typeof data[userId].saldo === 'number' ? data[userId].saldo : undefined;
 }
 
