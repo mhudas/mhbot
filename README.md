@@ -1,6 +1,6 @@
 # MHBOT
 
-Bot Discord simple dengan fitur ekonomi, game, dan lain-lain yang berbasis Slash Commands dan menggunakan Javascript.
+Bot Discord simple dengan fitur ekonomi, game, dan lain-lain yang berbasis Slash Commands dan menggunakan bahasa Javascript.
 
 ## Fitur Utama
 - **/ping** — Cek respons bot.
