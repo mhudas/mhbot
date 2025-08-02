@@ -51,6 +51,6 @@ Bot Discord simple dengan fitur ekonomi, game, dan lain-lain yang berbasis Slash
 - Beri credit ke repositori ini atau setidaknya berikan saya Star ✌.
 ---
 
-> if you get an error message, please contact me via discord, @hudmeh
+> if you get an error message, feel free to contact me via discord, @hudmeh :)
 
 > Made in love by huda ❤️.
