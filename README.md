@@ -6,7 +6,7 @@ Bot Discord simple dengan fitur ekonomi, game, dan lain-lain yang berbasis Slash
 - **/ping** — Cek respons bot.
 - **/saldo** — Cek saldo koin kamu.
 - **/harian** — Klaim saldo harian (setiap 24 jam sekali).
-- **/roulette (jumlah)** — Main roulette melawan bot, taruhan minimal 10 koin, maksimal 10x per hari, delay 6 detik per main.
+- **/roulette (jumlah)** — Main roulette melawan bot, taruhan minimal 10 koin, maksimal 10x per hari, delay 6 detik per main. Lalu bisa mengatur chance kemenangan.
 - **/help** — Daftar semua command bot.
 - **/about** — Info pemilik bot dan link source code.
 - (request feature, dm me on discord thx)
